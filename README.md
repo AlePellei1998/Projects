@@ -1,3 +1,3 @@
 # Projects
 
-This repo is intended as a collection of data analysis/science projects written in Python (jupyter notebook), motivated by two clear objectives. Objective 1: apply to interesting scenarios with policy relevance the tools I learned in my Data Science course (and that I am currently learning). Objective 2: have fun.
+This repo is intended as a collection of data analysis/science projects written in Python (jupyter notebook), to apply the tools I learned (and I am currently learning) to interesting scenarios with a policy relevance, and to simply have fun exploring data.
